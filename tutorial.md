@@ -8,3 +8,4 @@ Main Commands
 *git checkout -b **NAME NEW BRANCH** = copied the master branch into a new branch, so any change made isnt going to affect the master branch
 *git checkout master = change back to master branch
 *git checkout **name branch** = change branches
+*git merge master = want to add the advances on branch master into branch new
