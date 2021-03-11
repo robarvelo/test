@@ -7,3 +7,4 @@ Main Commands
 *git commit -m "**COMMENT**" = after a commit is made, a comment is mandatory to save the changes
 *git checkout -b **NAME NEW BRANCH** = copied the master branch into a new branch, so any change made isnt going to affect the master branch
 *git checkout master = change back to master branch
+*git checkout **name branch** = change branches
